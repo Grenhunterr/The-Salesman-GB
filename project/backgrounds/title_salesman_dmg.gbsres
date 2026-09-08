@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "43a33180-ffc3-42c5-bf6f-31de5466251c",
+  "name": "title_salesman_dmg",
+  "symbol": "bg_title_salesman_dmg",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "title_salesman_dmg.png",
+  "tileColors": "",
+  "autoColor": false
+}

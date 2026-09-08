@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "013f0ed8-4a68-4922-b11f-42e61d7f6c67",
+  "name": "title_salesman",
+  "symbol": "bg_title_salesman",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "title_salesman.png",
+  "tileColors": "",
+  "autoColor": true
+}

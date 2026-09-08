@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "29480a8e-e6ad-46a7-bfa6-850d6ae05022",
+  "name": "logo_backstab",
+  "symbol": "bg_logo_backstab",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "logo_backstab.png",
+  "tileColors": "",
+  "autoColor": true
+}

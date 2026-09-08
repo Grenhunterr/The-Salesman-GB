@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5d2e4ad5-c1a6-4b8c-a282-212de374c15f",
+  "name": "day select",
+  "symbol": "bg_day_select",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "day select.png",
+  "tileColors": "",
+  "autoColor": true
+}

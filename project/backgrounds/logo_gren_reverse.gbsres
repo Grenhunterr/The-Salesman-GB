@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "32e06a0b-b54a-48fa-acb1-349a34554f1e",
+  "name": "logo_gren_reverse",
+  "symbol": "bg_logo_gren_reverse",
+  "width": 40,
+  "height": 18,
+  "imageWidth": 320,
+  "imageHeight": 144,
+  "filename": "logo_gren_reverse.png",
+  "tileColors": "072d0+"
+}

@@ -1,0 +1,91 @@
+{
+  "_resourceType": "scene",
+  "id": "3609035d-9e96-425a-891e-e5e2ff4ba357",
+  "_index": 4,
+  "name": "ui/Grenhunterr-logo",
+  "backgroundId": "32e06a0b-b54a-48fa-acb1-349a34554f1e",
+  "tilesetId": "",
+  "width": 40,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "002d0+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_9",
+  "x": 144,
+  "y": 64,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "ad054792-1004-463c-b585-1323ac4253c4"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": 2,
+        "frames": 30
+      },
+      "id": "cdf87bd6-9cca-4755-bf80-3fb445ea5f6e"
+    },
+    {
+      "command": "EVENT_CAMERA_MOVE_TO",
+      "args": {
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "speed": 3
+      },
+      "id": "862c16f3-857d-4edb-9cf5-9db36dbcbd50"
+    },
+    {
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "crash",
+        "priority": "medium",
+        "pitch": 4,
+        "frequency": 200,
+        "duration": 0.5,
+        "wait": true,
+        "effect": 0
+      },
+      "id": "fc8562f7-9c27-4fca-9844-c9468d8ba4a7"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": 2,
+        "frames": 30
+      },
+      "id": "a73bb66d-8e0b-492a-ab73-6e8147722d61"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "4b990e3e-3ead-46b5-afcb-c1e52a5dbbfd"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

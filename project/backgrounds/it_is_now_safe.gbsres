@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "28962090-dfa4-4a15-9132-d770eaf70fca",
+  "name": "it_is_now_safe",
+  "symbol": "bg_it_is_now_safe",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "it_is_now_safe.png",
+  "tileColors": "07168+",
+  "autoColor": false
+}

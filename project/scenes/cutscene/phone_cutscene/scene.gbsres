@@ -1,0 +1,82 @@
+{
+  "_resourceType": "scene",
+  "id": "a17b8f33-cf8e-43c0-a5e0-453eb3ad1e42",
+  "_index": 8,
+  "name": "cutscene/phone cutscene",
+  "backgroundId": "46a68101-a73e-4cda-8ef6-5395a9ab959c",
+  "tilesetId": "",
+  "width": 20,
+  "height": 36,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_2",
+  "x": 696,
+  "y": 432,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "f93ff425-9983-46be-b1d6-87eea7810306"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": 2,
+        "frames": 30
+      },
+      "id": "3917a80c-7ff0-427a-b2b8-a3b3be35613f"
+    },
+    {
+      "command": "EVENT_CAMERA_MOVE_TO",
+      "args": {
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 18
+        },
+        "speed": 1
+      },
+      "id": "93352a0a-7218-4d28-a17a-4c81f7eb202c"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": 2,
+        "frames": 30
+      },
+      "id": "b02e322f-e5e2-46c9-b8c2-bee183fdb742"
+    },
+    {
+      "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+      "args": {
+        "text": [
+          "Ugh... I knew this\nbuyout was too good to",
+          "be true. It's ok, you\ncan do this. Just gotta",
+          "pull yourself up by\nyour bootsraps."
+        ],
+        "__scriptTabs": "text",
+        "nameTag": "YOU",
+        "nameX": 3,
+        "avatarType": "small",
+        "avatarId": "",
+        "largeAvatar": "",
+        "avatarX": 2,
+        "avatarY": 2,
+        "avatarWidth": 3,
+        "orientation": "left"
+      },
+      "id": "8c2a4f72-9e5c-42f3-9b08-2d3351baaeb0"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f80158c2-5023-4d6b-aee1-1eb23f891e22",
+  "name": "credits",
+  "symbol": "bg_credits",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "credits.png",
+  "tileColors": "07168+",
+  "autoColor": false
+}

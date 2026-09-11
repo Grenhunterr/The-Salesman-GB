@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "46a68101-a73e-4cda-8ef6-5395a9ab959c",
+  "name": "phone possibly",
+  "symbol": "bg_phone_possibly",
+  "width": 20,
+  "height": 36,
+  "imageWidth": 160,
+  "imageHeight": 288,
+  "filename": "phone possibly.png",
+  "tileColors": "072d0+",
+  "autoColor": false
+}
